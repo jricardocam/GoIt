@@ -1,0 +1,19 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #E5E5E5;
+}
+#main{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 40px auto;
+    box-shadow: 6px 6px 20px rgba(0,0,0,0.1);
+    background-color: white;
+}
+
+.sidebar{
+    background-color: #1E2939;
+    width: 370px;
+    padding-top: 40px;
+    
+}
