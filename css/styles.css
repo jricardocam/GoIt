@@ -85,7 +85,9 @@ body{
     line-height: 24px;
     color: #595959;
 }
-
+.proyectSec{
+    margin-bottom: 51px;
+}
 .proyectTit{
     font-weight: 700;
     font-size: 22px;
@@ -99,9 +101,6 @@ body{
     font-size: 14px;
     line-height: 24px;
 
-}
-.proyectItem{
-    
 }
 .proyectAn{
     font-weight: 400;
@@ -121,10 +120,66 @@ body{
     font-weight: bold;
     font-size: 22px;
     line-height: 27px;
+    margin: 0 0 12px 0;
 }
 .companyCont{
-    
+    margin-bottom: 16px;
 }
 .compTitle{
+    margin: 0 0 11px 0;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
 
+}
+.comType{
+    color: #FB6D3A;
+}
+.compPeriod{
+    margin: 0 0 8px 0;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+}
+.compList{
+
+    padding: 0 0 0 17px;
+}
+.compItem{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    width: 509px;
+}
+/*Education*/
+.eduContainer{
+
+}
+.eduTitle{
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin: 0;
+    }
+.eduSchool{
+    margin-top: 0 12px 0 11px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FB6D3A;
+}
+.eduCarrer{
+    margin:0px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    margin-bottom: 12px;
+}
+.eduPeriod{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
 }
