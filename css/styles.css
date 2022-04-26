@@ -59,3 +59,72 @@ body{
     line-height: 24px;
     color: #FFFFFF;
 }
+/*Estilos Main Content*/
+.mainContainer{
+    padding: 102px 88px;
+}
+.aboutSec{
+    margin-bottom: 40px;
+}
+.aboutTitle{
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    margin-bottom: 20px;
+    margin-top: 0;
+}
+.aboutName{
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 55px;
+}
+.aboutDesc{
+    width: 400px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+.proyectTit{
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin: 0 0 8px 0;
+}
+.proyectList{
+    margin: 0;
+    padding: 0 0 0 17px;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+
+}
+.proyectItem{
+    
+}
+.proyectAn{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    text-decoration: none;
+}
+.proyectBra{
+    color: black;
+}
+/*Work experience*/
+.expContainer{
+    margin-bottom: 43px;
+}
+.expTitle{
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+}
+.companyCont{
+    
+}
+.compTitle{
+
+}
